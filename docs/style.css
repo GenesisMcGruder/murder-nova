@@ -1,4 +1,7 @@
 body {
     background: rgb(242, 218, 202);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2 {
+    background-color: rgb(227, 157, 168);
 }
