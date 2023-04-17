@@ -8,3 +8,5 @@ function addingEventListener() {
         alert('I was clicked!');
     })
 }
+
+addingEventListener()
